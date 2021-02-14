@@ -13,3 +13,5 @@ create_symlink () {
 create_symlink .bashrc 
 create_symlink .bash_aliases 
 create_symlink .gitconfig 
+
+  

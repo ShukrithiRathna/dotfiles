@@ -1,0 +1,10 @@
+{
+    "C_Cpp.updateChannel": "Insiders",
+    "python.pythonPath": "/home/Shukrithi/anaconda3/bin/python",
+    "window.zoomLevel": -1,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "explorer.confirmDragAndDrop": false,
+    "latex-workshop.view.pdf.viewer": "tab",
+    "liveServer.settings.donotVerifyTags": true,
+    "jupyter.askForKernelRestart": false
+}
