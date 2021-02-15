@@ -1,7 +1,7 @@
 #!/bin/bash
 
 create_symlink () {
-  if [ -h ~/${1} ]; then
+  if [ -L ~/${1} ]; then
     # Existing symlink 
     echo "Removing existing symlink: ${dest}"
     dest="${HOME}/${1}"

@@ -11,5 +11,5 @@ alias gh='history|grep'
 #open file
 alias open='xdg-open'
 alias home='cd ~/'
-alias pve= 'python3 -m venv'
+#alias pve= 'python3 -m venv'
 
